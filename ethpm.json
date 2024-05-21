@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "description": "Ethereum Token Contracts",
   "authors": [
-    "Simon de la Rouviere <simon.delarouviere@consensys.net>",
-    "Joseph Chow <joseph.chow@consensys.net>"
+    "Anthony Lawson <anthony.lawson@consensys.net>"
   ],
   "keywords": [
     "tokens",
